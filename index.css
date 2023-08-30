@@ -1,0 +1,43 @@
+body{
+    margin-top: 20px;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: black;
+    
+}
+.logo{
+    width: 120px;
+    height: 60px;
+}
+.nav-bar ul{
+    display: flex;
+    gap: 40px;
+    color: white;
+    list-style: none;
+    font-size: 16px;
+    
+    
+}
+
+.login{
+    display: flex;
+    gap: 20px;
+    color: white;
+    margin-right: 10px;
+
+}
+.car img{
+    width: 100% ;
+    height: 500px;
+    margin-top: 5px;
+}
+
+.first-p{
+    font-weight: bold;
+    font-size: 20px;
+    
+}
